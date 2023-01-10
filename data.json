@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Aaron",
+    "age": 36,
+    "isMarried": true,
+    "salary": 80000,
+    "gender": "Male"
+  },
+  {
+    "name": "Gorkem",
+    "age": 37,
+    "isMarried": false,
+    "salary": 70000,
+    "gender": "Male"
+  },
+  {
+    "name": "Faruk",
+    "age": 40,
+    "isMarried": false,
+    "salary": 10000,
+    "gender": "Male"
+  },
+  {
+    "name": "Imren",
+    "age": 25,
+    "isMarried": true,
+    "salary": 90000,
+    "gender": "Female"
+  },
+  {
+    "name": "Saadet",
+    "age": 62,
+    "isMarried": true,
+    "salary": 0,
+    "gender": "Female"
+  }
+]
